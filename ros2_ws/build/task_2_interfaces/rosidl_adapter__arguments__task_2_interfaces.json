@@ -1,0 +1,7 @@
+{
+  "package_name": "task_2_interfaces",
+  "non_idl_tuples": [
+    "/home/min/a/li5313/ME597Lab1/ros2_ws/src/task_2_interfaces:msg/JointData.msg",
+    "/home/min/a/li5313/ME597Lab1/ros2_ws/src/task_2_interfaces:srv/JointState.srv"
+  ]
+}

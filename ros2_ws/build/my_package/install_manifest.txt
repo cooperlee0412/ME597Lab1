@@ -1,0 +1,16 @@
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/lib/my_package/my_node
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/environment/ament_prefix_path.sh
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/environment/path.sh
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/environment/path.dsv
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/local_setup.bash
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/local_setup.sh
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/local_setup.zsh
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/local_setup.dsv
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/package.dsv
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/ament_index/resource_index/packages/my_package
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+/home/min/a/li5313/ME597Lab1/ros2_ws/install/my_package/share/my_package/package.xml
